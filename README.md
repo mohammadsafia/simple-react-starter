@@ -21,8 +21,8 @@ Simple ReactJS starter with an opinionated folder structure.
   - `config/` - Config files
   - `containers/` - [Smart Components](https://medium.com/@thejasonfile/dumb-components-and-smart-components-e7b33a698d43)
   - `context/` - [React Context](https://reactjs.org/docs/context.html)
-  - `store/` - React store like redux (Store) 
-    -`sub-store/` - Sub store mean any part of the store like user or product etc...
+  - `store/` - React store like redux (Store)
+    - `sub-store/` - Sub store mean any part of the store like user or product etc...
       - `sub.action.ts` - Action Types and Action Creators
       - `sub.reducer.ts` - Reducers
       - `sub.types.ts` - All types for the sub-store
