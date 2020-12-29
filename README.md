@@ -5,7 +5,7 @@ Simple ReactJS starter with an opinionated folder structure.
 ## Getting Started
 
 1. Ensure you've followed the [ReactJS - Getting Started Guide](https://reactjs.org/docs/getting-started.html)
-1. Clone this project `git clone https://github.com/mohammadsafia/react-structure-one.git`
+1. Clone this project `git clone https://github.com/mohammadsafia/simple-react-starter.git`
 1. Run `yarn install` from root directory to install dependencies
 1. Run `yarn start` from root directory
 
